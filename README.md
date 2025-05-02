@@ -1,1 +1,0 @@
-# testes_analisador_logica_proposicional
