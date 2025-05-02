@@ -1,0 +1,11 @@
+10
+(\wedge 2 9l)
+true
+x1
+(\neg true)
+(\vee (\neg x) false)
+(\neg)
+(\nand x y)
+()
+(\vee true)
+99ab

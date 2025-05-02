@@ -1,0 +1,6 @@
+5
+(\neg )
+(\vee 1 2
+(\wedge 1a)
+tru
+(\nand 1 2)

@@ -1,0 +1,6 @@
+5
+1a
+false
+(\neg 3b)
+(\wedge 1a 2b)
+(\rightarrow (\neg 1x) (\vee 2y false))
